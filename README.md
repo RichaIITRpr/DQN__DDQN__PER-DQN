@@ -1,5 +1,5 @@
 # DQN__DDQN__PER-DQN
-**1. INtersection Environment**
+**1. Intersection Environment**
 
 A: Solving Intersection environment by Training 3 Algorithms DQN, DDQN, PER DQN for Intersection Environment. Plot the graphs for the average reward per episode, Average Q value and absolute value error.
 
